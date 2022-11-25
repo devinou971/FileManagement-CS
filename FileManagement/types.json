@@ -1,0 +1,7 @@
+﻿{
+	"image" : ["png", "jpg", "jpeg"],
+	"audio" : ["mp3", "ogg"],
+	"documents" : ["doc", "docx", "pdf", "txt"],
+	"archive" : ["zip", "rar", "xz"],
+	"executable" : ["jar", "exe", "msi"]
+}
